@@ -2,9 +2,9 @@
 
 *How can we develop critical AI literacy for design students in higher education?*
 
-This two-part workshop focuses on fostering students critical AI literacy through critical and reflective play with generative models. The workshops outlined below and accompanying worksheets were developed in the Visual Communication degree at the University of Technology Sydney (UTS) by Dr Andrew Burrell and Dr Monica Monin. The workshop and worksheets can be easily modified to meet the requirements for other disciplines.
+This two-part workshop focuses on fostering students critical AI literacy by bringing together critical thinking and reflective play in engagements with generative models. The workshops outlined below and accompanying worksheets were developed in the Visual Communication degree at the University of Technology Sydney (UTS) by Dr Andrew Burrell and Dr Monica Monin. The workshop and worksheets can be easily modified to meet the requirements for other disciplines.
 
-Published under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence. If you run a workshop or use the worksheets in your educational practice we would love to hear about it. Please email either monica.monin@uts.edu.au or andrew.burrell@uts.edu.au
+Published under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence. If you run a workshop or use the worksheets in your educational practice we would love to hear about it. Please email either [Monica Monin](mailto:monica.monin@uts.edu.au) or [Andrew Burrell](mailto:andrew.burrell@uts.edu.au).
 
 # Workshop Structure
 
