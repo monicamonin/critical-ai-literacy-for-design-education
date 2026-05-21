@@ -8,7 +8,7 @@ Published under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Inte
 
 # Workshop Structure
 
-# Workshop 1 (~1hr)
+## Workshop 1 (~1hr)
 In workshop 1, students working in groups of 4-6 collaboratively write their own set of 6 characteristics for a purposeful and responsible use of AI in design (or other discipline). 
 
 # Workshop 2 (~1hr)
